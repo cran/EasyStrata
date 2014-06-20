@@ -1,0 +1,2 @@
+export(EasyStrata)
+import(methods,Cairo,plotrix)
